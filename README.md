@@ -1,2 +1,11 @@
-# Django_Project
-Um projeto feito com o intuito de apresentar e desenvolver os conhecimentos em django
+# Estoque
+Um projeto para controle de estoque básico
+
+## Como rodar o projeto ?
+
+* Clone o repositório.
+* Crie um virtualenv com Python.
+* Ativa a virtualenv.
+* Instale as dependências.
+* Rode as migrations.
+
