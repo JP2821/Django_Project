@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     # meus aplicativos
-    'controle_de_estoque.core',
+    #'controle_de_estoque.core',
+    #'controle_de_estoque.produto',
 ]
 
 MIDDLEWARE = [

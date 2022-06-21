@@ -21,6 +21,6 @@ python manage.py migrate
 ```
 ## Links
 
-[python-decouple]https://github.com/henriquebastos/python-decouple
+[python-decouple](https://github.com/henriquebastos/python-decouple)
 
-[package-of-the-week-python-decouple]https://simpleisbetterthancomplex.com/2015/11/26/package-of-the-week-python-decouple.html
+[package-of-the-week-python-decouple](https://simpleisbetterthancomplex.com/2015/11/26/package-of-the-week-python-decouple.html)
